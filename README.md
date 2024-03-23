@@ -1,2 +1,2 @@
 # DifferentialEquotionsProject
-AGH computer science third semester
+This project solve differential equotion using MES method. 
